@@ -1,4 +1,4 @@
-# indecisosapp
+# TaskVue
 
 > A Vue.js project
 
